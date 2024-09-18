@@ -38,6 +38,11 @@ python app/face_detect.py
 * Haar Cascade detects faces in the frame
 * Detected faces are highlighted with a rectangle
 
-## Author
+## Contribution
+Contributions are welcome! If you would like to improve this project or fix any issues, feel free to open a pull request. Make sure your changes are well-documented.
 
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Author
 * Endekalu Simon Haile
